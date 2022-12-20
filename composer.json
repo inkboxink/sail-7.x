@@ -1,5 +1,5 @@
 {
-    "name": "ajuchacko/sail-7.x",
+    "name": "inkbox/sail-7.x",
     "description": "Docker files for running a basic Laravel 7 application.",
     "keywords": ["laravel", "docker"],
     "license": "MIT",
